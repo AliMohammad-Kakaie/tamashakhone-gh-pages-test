@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#121210">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self'; font-src 'self'; connect-src 'none'; base-uri 'none'; object-src 'none'; form-action 'none'">
+  <title>تماشاخونه — آزمایش GitHub Pages</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.mjs"></script>
+</head>
+<body>
+<main class="shell">
+  <header class="mast">
+    <div class="brand"><span class="logo" aria-hidden="true">▶</span><div><p class="eyebrow">آزمایش دسترسی · GitHub Pages</p><h1>تماشاخونه</h1></div></div>
+    <p class="intro">نسخه آزمایشی عمومی — بدون اطلاعات واقعی</p>
+    <p class="muted">یک کتابخانه کوچک برای آزمایش نمایش و تعامل در مرورگر گوشی؛ بدون نیاز به ورود.</p>
+  </header>
+  <p class="notice">همه عنوان‌ها، سال‌ها و توضیح‌های زیر ساختگی و صرفاً برای آزمایش‌اند؛ به سابقه تماشای هیچ فردی ارتباط ندارند.</p>
+  <section class="toolbar" aria-label="جست‌وجو و فیلتر کارت‌های آزمایشی">
+    <label class="search">جست‌وجو<input id="search" type="search" placeholder="عنوان فارسی یا انگلیسی…" autocomplete="off" disabled></label>
+    <label>نوع اثر<select id="type" disabled><option value="all">همه آثار</option><option value="movie">فیلم‌ها</option><option value="series">سریال‌ها</option></select></label>
+    <button id="reset" class="secondary" type="button" disabled>پاک‌کردن فیلترها</button>
+  </section>
+  <p id="results" class="results" role="status">۴ اثر کاملاً ساختگی</p>
+  <section id="library" class="gallery" aria-label="کارت‌های نمایشی">
+    <article class="work" data-kind="movie">
+      <div class="poster dawn" aria-hidden="true"><span class="sample">نمونهٔ ساختگی</span><span class="art-circle"></span><span class="art-line"></span><span class="art-number">۰۱</span></div>
+      <div class="workinfo"><span class="type">فیلم · ۲۰۴۲ نمایشی</span><h2>سفر به ایستگاه هفتم</h2><p lang="en" dir="ltr" class="english">Station Seven — Demo</p><p class="description">یک سفر فضایی خیالی؛ ساخته‌شده فقط برای این آزمایش.</p></div>
+    </article>
+    <article class="work" data-kind="series">
+      <div class="poster lantern" aria-hidden="true"><span class="sample">نمونهٔ ساختگی</span><span class="art-circle"></span><span class="art-line"></span><span class="art-number">۰۲</span></div>
+      <div class="workinfo"><span class="type">سریال · ۲۰۴۳ نمایشی</span><h2>کوچهٔ فانوس‌ها</h2><p lang="en" dir="ltr" class="english">Lantern Lane — Demo</p><p class="description">ماجراهایی خیالی در کوچه‌ای که فقط در این نمونه وجود دارد.</p></div>
+    </article>
+    <article class="work" data-kind="movie">
+      <div class="poster train" aria-hidden="true"><span class="sample">نمونهٔ ساختگی</span><span class="art-circle"></span><span class="art-line"></span><span class="art-number">۰۳</span></div>
+      <div class="workinfo"><span class="type">فیلم · ۲۰۴۰ نمایشی</span><h2>آخرین قطار کاغذی</h2><p lang="en" dir="ltr" class="english">Paper Train — Demo</p><p class="description">داستانی ساختگی درباره قطاری کاغذی و مسیری ناممکن.</p></div>
+    </article>
+    <article class="work" data-kind="series">
+      <div class="poster clocks" aria-hidden="true"><span class="sample">نمونهٔ ساختگی</span><span class="art-circle"></span><span class="art-line"></span><span class="art-number">۰۴</span></div>
+      <div class="workinfo"><span class="type">سریال · ۲۰۴۱ نمایشی</span><h2>جزیرهٔ ساعت‌های خاموش</h2><p lang="en" dir="ltr" class="english">Silent Clocks — Demo</p><p class="description">جزیره‌ای خیالی برای سنجش جست‌وجو و فیلتر؛ بدون سابقه واقعی.</p></div>
+    </article>
+  </section>
+  <p id="empty" class="empty" hidden>اثری با این جست‌وجو و فیلتر پیدا نشد.</p>
+  <section class="js-test" aria-labelledby="test-title"><div><h2 id="test-title">آزمایش عملکرد صفحه</h2><p id="script-status" class="muted">در انتظار اجرای جاوااسکریپت…</p></div><button id="test-button" type="button" disabled>آزمایش کلیک</button><p id="counter" aria-live="polite" aria-atomic="true">تعداد کلیک: ۰</p></section>
+  <noscript><p class="notice">جاوااسکریپت غیرفعال است. کارت‌ها نمایش داده می‌شوند، اما جست‌وجو، فیلتر و شمارنده کار نمی‌کنند.</p></noscript>
+  <footer>فایل‌های محلی · بدون اتصال به بانک اطلاعاتی · بدون جمع‌آوری اطلاعات شخصی توسط این نمونه</footer>
+</main>
+</body>
+</html>
