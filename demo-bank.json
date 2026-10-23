@@ -1,0 +1,2586 @@
+{
+  "isDemo": true,
+  "works": [
+    {
+      "id": "demo-1",
+      "fa": "تلقین",
+      "en": "Inception",
+      "year": 2010,
+      "kind": "movie",
+      "tmdb": 27205,
+      "imdb": "tt1375666",
+      "idx": 1,
+      "isDemo": true,
+      "participants": [
+        "ali"
+      ],
+      "viewKind": "انفرادی",
+      "ratings": {
+        "ali": 6,
+        "fat": null
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-1",
+          "people": [
+            "ali"
+          ],
+          "kind": "تماشای انفرادی",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [
+          {
+            "comment": "یادداشت آزمایشی برای کنترل نمایش نظر و شکست سطرها. این متن نظر واقعی نیست.",
+            "feeling": "احساس نمونه"
+          }
+        ],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": null
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-2",
+      "fa": "میان‌ستاره‌ای",
+      "en": "Interstellar",
+      "year": 2014,
+      "kind": "movie",
+      "tmdb": 157336,
+      "imdb": "tt0816692",
+      "idx": 2,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": 8.5,
+        "fat": 7.5
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-2",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 7.1
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-3",
+      "fa": "ماتریکس",
+      "en": "The Matrix",
+      "year": 1999,
+      "kind": "movie",
+      "tmdb": 603,
+      "imdb": "tt0133093",
+      "idx": 3,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": 7,
+        "fat": 8
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-3",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 6.2
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-4",
+      "fa": "ماتریکس: بارگذاری مجدد",
+      "en": "The Matrix Reloaded",
+      "year": 2003,
+      "kind": "movie",
+      "tmdb": 604,
+      "imdb": "tt0234215",
+      "idx": 4,
+      "isDemo": true,
+      "participants": [
+        "ali"
+      ],
+      "viewKind": "انفرادی",
+      "ratings": {
+        "ali": 0,
+        "fat": null
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-4",
+          "people": [
+            "ali"
+          ],
+          "kind": "تماشای انفرادی",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 0
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-5",
+      "fa": "ماتریکس: انقلاب‌ها",
+      "en": "The Matrix Revolutions",
+      "year": 2003,
+      "kind": "movie",
+      "tmdb": 605,
+      "imdb": "tt0242653",
+      "idx": 5,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": null,
+        "fat": 6.5
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-5",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [
+          {
+            "comment": "یادداشت آزمایشی برای کنترل نمایش نظر و شکست سطرها. این متن نظر واقعی نیست.",
+            "feeling": "احساس نمونه"
+          }
+        ],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 8.3
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-6",
+      "fa": "ماتریکس: رستاخیزها",
+      "en": "The Matrix Resurrections",
+      "year": 2021,
+      "kind": "movie",
+      "tmdb": 624860,
+      "imdb": "tt10838180",
+      "idx": 6,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": 10,
+        "fat": null
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-6",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": [
+          {
+            "comment": "نظر ساختگیِ مستقل برای آزمون نمایش نظرات."
+          }
+        ]
+      },
+      "demoRatings": {
+        "imdb": 10
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-7",
+      "fa": "داستان اسباب‌بازی",
+      "en": "Toy Story",
+      "year": 1995,
+      "kind": "movie",
+      "tmdb": 862,
+      "imdb": "tt0114709",
+      "idx": 7,
+      "isDemo": true,
+      "participants": [
+        "ali"
+      ],
+      "viewKind": "انفرادی",
+      "ratings": {
+        "ali": 6.9,
+        "fat": null
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-7",
+          "people": [
+            "ali"
+          ],
+          "kind": "تماشای انفرادی",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 7.4
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-8",
+      "fa": "داستان اسباب‌بازی ۲",
+      "en": "Toy Story 2",
+      "year": 1999,
+      "kind": "movie",
+      "tmdb": 863,
+      "imdb": "tt0120363",
+      "idx": 8,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": 7.5,
+        "fat": 8.2
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-8",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 8.1
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-9",
+      "fa": "داستان اسباب‌بازی ۳",
+      "en": "Toy Story 3",
+      "year": 2010,
+      "kind": "movie",
+      "tmdb": 10193,
+      "imdb": "tt0435761",
+      "idx": 9,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": 8,
+        "fat": 8.5
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-9",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [
+          {
+            "comment": "یادداشت آزمایشی برای کنترل نمایش نظر و شکست سطرها. این متن نظر واقعی نیست.",
+            "feeling": "احساس نمونه"
+          }
+        ],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 5.2
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-10",
+      "fa": "داستان اسباب‌بازی ۴",
+      "en": "Toy Story 4",
+      "year": 2019,
+      "kind": "movie",
+      "tmdb": 301528,
+      "imdb": "tt1979376",
+      "idx": 10,
+      "isDemo": true,
+      "participants": [
+        "ali"
+      ],
+      "viewKind": "انفرادی",
+      "ratings": {
+        "ali": 9,
+        "fat": null
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-10",
+          "people": [
+            "ali"
+          ],
+          "kind": "تماشای انفرادی",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 9.3
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-11",
+      "fa": "در جست‌وجوی نمو",
+      "en": "Finding Nemo",
+      "year": 2003,
+      "kind": "movie",
+      "tmdb": 12,
+      "imdb": "tt0266543",
+      "idx": 11,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": 4,
+        "fat": 6
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-11",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": [
+          {
+            "comment": "نظر ساختگیِ مستقل برای آزمون نمایش نظرات."
+          }
+        ]
+      },
+      "demoRatings": {
+        "imdb": 6.4
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-12",
+      "fa": "وال‌ئی",
+      "en": "WALL·E",
+      "year": 2008,
+      "kind": "movie",
+      "tmdb": 10681,
+      "imdb": "tt0910970",
+      "idx": 12,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": 5.5,
+        "fat": 6.7
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-12",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": null
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-13",
+      "fa": "بالا",
+      "en": "Up",
+      "year": 2009,
+      "kind": "movie",
+      "tmdb": 14160,
+      "imdb": "tt1049413",
+      "idx": 13,
+      "isDemo": true,
+      "participants": [
+        "ali"
+      ],
+      "viewKind": "انفرادی",
+      "ratings": {
+        "ali": 7.9,
+        "fat": null
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-13",
+          "people": [
+            "ali"
+          ],
+          "kind": "تماشای انفرادی",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [
+          {
+            "comment": "یادداشت آزمایشی برای کنترل نمایش نظر و شکست سطرها. این متن نظر واقعی نیست.",
+            "feeling": "احساس نمونه"
+          }
+        ],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 7.8
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-14",
+      "fa": "درون و بیرون",
+      "en": "Inside Out",
+      "year": 2015,
+      "kind": "movie",
+      "tmdb": 150540,
+      "imdb": "tt2096673",
+      "idx": 14,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": 8.1,
+        "fat": 9
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-14",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 8.2
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-15",
+      "fa": "کوکو",
+      "en": "Coco",
+      "year": 2017,
+      "kind": "movie",
+      "tmdb": 354912,
+      "imdb": "tt2380307",
+      "idx": 15,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": 6.5,
+        "fat": 7
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-15",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 6.5
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-16",
+      "fa": "روح",
+      "en": "Soul",
+      "year": 2020,
+      "kind": "movie",
+      "tmdb": 508442,
+      "imdb": "tt2948372",
+      "idx": 16,
+      "isDemo": true,
+      "participants": [
+        "ali"
+      ],
+      "viewKind": "انفرادی",
+      "ratings": {
+        "ali": 9.5,
+        "fat": null
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-16",
+          "people": [
+            "ali"
+          ],
+          "kind": "تماشای انفرادی",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 9.1
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-17",
+      "fa": "راتاتویی",
+      "en": "Ratatouille",
+      "year": 2007,
+      "kind": "movie",
+      "tmdb": 2062,
+      "imdb": "tt0382932",
+      "idx": 17,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": 3,
+        "fat": 5.2
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-17",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [
+          {
+            "comment": "یادداشت آزمایشی برای کنترل نمایش نظر و شکست سطرها. این متن نظر واقعی نیست.",
+            "feeling": "احساس نمونه"
+          }
+        ],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 3.2
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-18",
+      "fa": "شگفت‌انگیزان",
+      "en": "The Incredibles",
+      "year": 2004,
+      "kind": "movie",
+      "tmdb": 9806,
+      "imdb": "tt0317705",
+      "idx": 18,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": 7.1,
+        "fat": null
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-18",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 7.3
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-19",
+      "fa": "شگفت‌انگیزان ۲",
+      "en": "Incredibles 2",
+      "year": 2018,
+      "kind": "movie",
+      "tmdb": 260513,
+      "imdb": "tt3606756",
+      "idx": 19,
+      "isDemo": true,
+      "participants": [
+        "ali"
+      ],
+      "viewKind": "انفرادی",
+      "ratings": {
+        "ali": 8.8,
+        "fat": null
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-19",
+          "people": [
+            "ali"
+          ],
+          "kind": "تماشای انفرادی",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 8.4
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-20",
+      "fa": "مریخی",
+      "en": "The Martian",
+      "year": 2015,
+      "kind": "movie",
+      "tmdb": 286217,
+      "imdb": "tt3659388",
+      "idx": 20,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": 6.2,
+        "fat": 7.8
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-20",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 6.1
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-21",
+      "fa": "ورود",
+      "en": "Arrival",
+      "year": 2016,
+      "kind": "movie",
+      "tmdb": 329865,
+      "imdb": "tt2543164",
+      "idx": 21,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": 9,
+        "fat": 9.2
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-21",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [
+          {
+            "comment": "یادداشت آزمایشی برای کنترل نمایش نظر و شکست سطرها. این متن نظر واقعی نیست.",
+            "feeling": "احساس نمونه"
+          }
+        ],
+        "fat": [
+          {
+            "comment": "نظر ساختگیِ مستقل برای آزمون نمایش نظرات."
+          }
+        ]
+      },
+      "demoRatings": {
+        "imdb": 9.2
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-22",
+      "fa": "نمایش ترومن",
+      "en": "The Truman Show",
+      "year": 1998,
+      "kind": "movie",
+      "tmdb": 37165,
+      "imdb": "tt0120382",
+      "idx": 22,
+      "isDemo": true,
+      "participants": [
+        "ali"
+      ],
+      "viewKind": "انفرادی",
+      "ratings": {
+        "ali": 7.6,
+        "fat": null
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-22",
+          "people": [
+            "ali"
+          ],
+          "kind": "تماشای انفرادی",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 7.6
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-23",
+      "fa": "چرنوبیل",
+      "en": "Chernobyl",
+      "year": 2019,
+      "kind": "series",
+      "tmdb": 87108,
+      "imdb": "tt7366338",
+      "idx": 23,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": 8.2,
+        "fat": 9
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "کامل‌شده · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "کامل‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [
+        {
+          "n": 1,
+          "episodes": 8,
+          "progress": {
+            "ali": 8,
+            "fat": 8
+          },
+          "episodeItems": [
+            {
+              "n": 1,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            },
+            {
+              "n": 2,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            },
+            {
+              "n": 3,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            },
+            {
+              "n": 4,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            },
+            {
+              "n": 5,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            },
+            {
+              "n": 6,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            },
+            {
+              "n": 7,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            },
+            {
+              "n": 8,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "episodes": 6,
+          "progress": {
+            "ali": 6,
+            "fat": 6
+          },
+          "episodeItems": [
+            {
+              "n": 1,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            },
+            {
+              "n": 2,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            },
+            {
+              "n": 3,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            },
+            {
+              "n": 4,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            },
+            {
+              "n": 5,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            },
+            {
+              "n": 6,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            }
+          ]
+        }
+      ],
+      "release": {
+        "seasons": 2,
+        "episodes": 14,
+        "future": null,
+        "isDemo": true
+      },
+      "watch": [
+        {
+          "id": "demo-watch-23",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 8.5
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-24",
+      "fa": "سیلو",
+      "en": "Silo",
+      "year": 2023,
+      "kind": "series",
+      "tmdb": 125988,
+      "imdb": "tt14688458",
+      "idx": 24,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": 7.7,
+        "fat": 7.2
+      },
+      "active": true,
+      "waiting": true,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "تماشای ناتمام · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "تماشای ناتمام · نمونه آزمایشی"
+        }
+      },
+      "seasons": [
+        {
+          "n": 1,
+          "episodes": 8,
+          "progress": {
+            "ali": 3,
+            "fat": 2
+          },
+          "episodeItems": [
+            {
+              "n": 1,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            },
+            {
+              "n": 2,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            },
+            {
+              "n": 3,
+              "progress": {
+                "ali": true,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 4,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 5,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 6,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 7,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 8,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "episodes": 6,
+          "progress": {
+            "ali": 0,
+            "fat": 0
+          },
+          "episodeItems": [
+            {
+              "n": 1,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 2,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 3,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 4,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 5,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 6,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            }
+          ]
+        }
+      ],
+      "release": {
+        "seasons": 2,
+        "episodes": 14,
+        "future": 3,
+        "isDemo": true
+      },
+      "watch": [
+        {
+          "id": "demo-watch-24",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "ناتمام",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 7.7
+      },
+      "completed": false
+    },
+    {
+      "id": "demo-25",
+      "fa": "جداسازی",
+      "en": "Severance",
+      "year": 2022,
+      "kind": "series",
+      "tmdb": 95396,
+      "imdb": "tt11280740",
+      "idx": 25,
+      "isDemo": true,
+      "participants": [
+        "ali"
+      ],
+      "viewKind": "انفرادی",
+      "ratings": {
+        "ali": 6.8,
+        "fat": null
+      },
+      "active": true,
+      "waiting": true,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "تماشای ناتمام · نمونه آزمایشی"
+        }
+      },
+      "seasons": [
+        {
+          "n": 1,
+          "episodes": 8,
+          "progress": {
+            "ali": 3,
+            "fat": null
+          },
+          "episodeItems": [
+            {
+              "n": 1,
+              "progress": {
+                "ali": true,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 2,
+              "progress": {
+                "ali": true,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 3,
+              "progress": {
+                "ali": true,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 4,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 5,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 6,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 7,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 8,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "episodes": 6,
+          "progress": {
+            "ali": 0,
+            "fat": null
+          },
+          "episodeItems": [
+            {
+              "n": 1,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 2,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 3,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 4,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 5,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 6,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            }
+          ]
+        }
+      ],
+      "release": {
+        "seasons": 2,
+        "episodes": 14,
+        "future": 3,
+        "isDemo": true
+      },
+      "watch": [
+        {
+          "id": "demo-watch-25",
+          "people": [
+            "ali"
+          ],
+          "kind": "تماشای انفرادی",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "ناتمام",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [
+          {
+            "comment": "یادداشت آزمایشی برای کنترل نمایش نظر و شکست سطرها. این متن نظر واقعی نیست.",
+            "feeling": "احساس نمونه"
+          }
+        ],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 6.8
+      },
+      "completed": false
+    },
+    {
+      "id": "demo-26",
+      "fa": "تاریک",
+      "en": "Dark",
+      "year": 2017,
+      "kind": "series",
+      "tmdb": 70523,
+      "imdb": "tt5753856",
+      "idx": 26,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": 8.6,
+        "fat": 7.4
+      },
+      "active": true,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "تماشای ناتمام · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "تماشای ناتمام · نمونه آزمایشی"
+        }
+      },
+      "seasons": [
+        {
+          "n": 1,
+          "episodes": 8,
+          "progress": {
+            "ali": 3,
+            "fat": 2
+          },
+          "episodeItems": [
+            {
+              "n": 1,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            },
+            {
+              "n": 2,
+              "progress": {
+                "ali": true,
+                "fat": true
+              },
+              "isDemo": true
+            },
+            {
+              "n": 3,
+              "progress": {
+                "ali": true,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 4,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 5,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 6,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 7,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 8,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "episodes": 6,
+          "progress": {
+            "ali": 0,
+            "fat": 0
+          },
+          "episodeItems": [
+            {
+              "n": 1,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 2,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 3,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 4,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 5,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            },
+            {
+              "n": 6,
+              "progress": {
+                "ali": false,
+                "fat": false
+              },
+              "isDemo": true
+            }
+          ]
+        }
+      ],
+      "release": {
+        "seasons": 2,
+        "episodes": 14,
+        "future": null,
+        "isDemo": true
+      },
+      "watch": [
+        {
+          "id": "demo-watch-26",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "ناتمام",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": [
+          {
+            "comment": "نظر ساختگیِ مستقل برای آزمون نمایش نظرات."
+          }
+        ]
+      },
+      "demoRatings": {
+        "imdb": 8.6
+      },
+      "completed": false
+    },
+    {
+      "id": "demo-27",
+      "fa": "اثر آزمایشی بدون شناسه",
+      "en": "Demo without identifiers",
+      "year": 2026,
+      "kind": "movie",
+      "tmdb": null,
+      "imdb": null,
+      "idx": 27,
+      "isDemo": true,
+      "participants": [
+        "ali",
+        "fat"
+      ],
+      "viewKind": "مشترک",
+      "ratings": {
+        "ali": null,
+        "fat": null
+      },
+      "active": false,
+      "waiting": false,
+      "uncertain": false,
+      "status": {
+        "ali": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        },
+        "fat": {
+          "text": "دیده‌شده · نمونه آزمایشی"
+        }
+      },
+      "seasons": [],
+      "release": null,
+      "watch": [
+        {
+          "id": "demo-watch-27",
+          "people": [
+            "ali",
+            "fat"
+          ],
+          "kind": "تماشای مشترک",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "کامل",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": null
+      },
+      "completed": true
+    },
+    {
+      "id": "demo-28",
+      "fa": "سریال آزمایشی بدون پوستر",
+      "en": "Demo series",
+      "year": 2026,
+      "kind": "series",
+      "tmdb": null,
+      "imdb": null,
+      "idx": 28,
+      "isDemo": true,
+      "participants": [
+        "ali"
+      ],
+      "viewKind": "انفرادی",
+      "ratings": {
+        "ali": 5,
+        "fat": null
+      },
+      "active": true,
+      "waiting": true,
+      "uncertain": true,
+      "status": {
+        "ali": {
+          "text": "تماشای ناتمام · نمونه آزمایشی"
+        }
+      },
+      "seasons": [
+        {
+          "n": 1,
+          "episodes": 8,
+          "progress": {
+            "ali": 3,
+            "fat": null
+          },
+          "episodeItems": [
+            {
+              "n": 1,
+              "progress": {
+                "ali": true,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 2,
+              "progress": {
+                "ali": true,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 3,
+              "progress": {
+                "ali": true,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 4,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 5,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 6,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 7,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 8,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "episodes": 6,
+          "progress": {
+            "ali": 0,
+            "fat": null
+          },
+          "episodeItems": [
+            {
+              "n": 1,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 2,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 3,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 4,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 5,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            },
+            {
+              "n": 6,
+              "progress": {
+                "ali": false,
+                "fat": null
+              },
+              "isDemo": true
+            }
+          ]
+        }
+      ],
+      "release": {
+        "seasons": 2,
+        "episodes": 14,
+        "future": 3,
+        "isDemo": true
+      },
+      "watch": [
+        {
+          "id": "demo-watch-28",
+          "people": [
+            "ali"
+          ],
+          "kind": "تماشای انفرادی",
+          "date": null,
+          "dateStatus": "تاریخ نامشخص · رویداد ساختگی",
+          "complete": "ناتمام",
+          "note": "این رویداد برای آزمون رابط ساخته شده و سابقه واقعی هیچ‌کس نیست."
+        }
+      ],
+      "reviews": {
+        "ali": [],
+        "fat": []
+      },
+      "demoRatings": {
+        "imdb": 5.1
+      },
+      "completed": false
+    }
+  ],
+  "people": {
+    "ali": {
+      "name": "علی‌محمد · نمونه ساختگی",
+      "demo": true
+    },
+    "fat": {
+      "name": "فاطمه · نمونه ساختگی",
+      "demo": true
+    }
+  },
+  "collections": [
+    {
+      "id": "world-animation",
+      "fa": "جهان انیمیشن — نمونه",
+      "en": "Animation demo world",
+      "type": "جهان آزمایشی",
+      "parent": null,
+      "members": []
+    },
+    {
+      "id": "toy",
+      "fa": "داستان اسباب‌بازی",
+      "en": "Toy Story",
+      "type": "مجموعه",
+      "parent": "world-animation",
+      "members": [
+        "demo-7",
+        "demo-8",
+        "demo-9",
+        "demo-10"
+      ]
+    },
+    {
+      "id": "incredibles",
+      "fa": "شگفت‌انگیزان",
+      "en": "The Incredibles",
+      "type": "مجموعه",
+      "parent": "world-animation",
+      "members": [
+        "demo-18",
+        "demo-19"
+      ]
+    },
+    {
+      "id": "matrix",
+      "fa": "ماتریکس",
+      "en": "The Matrix",
+      "type": "مجموعه",
+      "parent": null,
+      "members": [
+        "demo-3",
+        "demo-4",
+        "demo-5",
+        "demo-6"
+      ]
+    }
+  ],
+  "environment": "public-demo",
+  "build": "GH10.1",
+  "generatedAt": "2026-10-23",
+  "publicMetadata": {
+    "items": {
+      "movie:27205": {
+        "tmdb": 27205,
+        "kind": "movie",
+        "year": 2010,
+        "title": "Inception",
+        "posterPath": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/27205",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt1375666"
+      },
+      "movie:157336": {
+        "tmdb": 157336,
+        "kind": "movie",
+        "year": 2014,
+        "title": "Interstellar",
+        "posterPath": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/157336",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt0816692"
+      },
+      "movie:603": {
+        "tmdb": 603,
+        "kind": "movie",
+        "year": 1999,
+        "title": "The Matrix",
+        "posterPath": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/603",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt0133093"
+      },
+      "movie:604": {
+        "tmdb": 604,
+        "kind": "movie",
+        "year": 2003,
+        "title": "The Matrix Reloaded",
+        "posterPath": "/8xEVAe84zlL9rkfYT6dZXero4KK.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/604",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt0234215"
+      },
+      "movie:605": {
+        "tmdb": 605,
+        "kind": "movie",
+        "year": 2003,
+        "title": "The Matrix Revolutions",
+        "posterPath": "/qEWiBXJGXK28jGBAm8oFKKTB0WD.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/605",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt0242653"
+      },
+      "movie:624860": {
+        "tmdb": 624860,
+        "kind": "movie",
+        "year": 2021,
+        "title": "The Matrix Resurrections",
+        "posterPath": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/624860",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt10838180"
+      },
+      "movie:862": {
+        "tmdb": 862,
+        "kind": "movie",
+        "year": 1995,
+        "title": "Toy Story",
+        "posterPath": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/862",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt0114709"
+      },
+      "movie:863": {
+        "tmdb": 863,
+        "kind": "movie",
+        "year": 1999,
+        "title": "Toy Story 2",
+        "posterPath": "/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/863",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt0120363"
+      },
+      "movie:10193": {
+        "tmdb": 10193,
+        "kind": "movie",
+        "year": 2010,
+        "title": "Toy Story 3",
+        "posterPath": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/10193",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt0435761"
+      },
+      "movie:301528": {
+        "tmdb": 301528,
+        "kind": "movie",
+        "year": 2019,
+        "title": "Toy Story 4",
+        "posterPath": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/301528",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt1979376"
+      },
+      "movie:12": {
+        "tmdb": 12,
+        "kind": "movie",
+        "year": 2003,
+        "title": "Finding Nemo",
+        "posterPath": "/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/12",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt0266543"
+      },
+      "movie:10681": {
+        "tmdb": 10681,
+        "kind": "movie",
+        "year": 2008,
+        "title": "WALL·E",
+        "posterPath": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/10681",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt0910970"
+      },
+      "movie:14160": {
+        "tmdb": 14160,
+        "kind": "movie",
+        "year": 2009,
+        "title": "Up",
+        "posterPath": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/14160",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt1049413"
+      },
+      "movie:150540": {
+        "tmdb": 150540,
+        "kind": "movie",
+        "year": 2015,
+        "title": "Inside Out",
+        "posterPath": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/150540",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt2096673"
+      },
+      "movie:354912": {
+        "tmdb": 354912,
+        "kind": "movie",
+        "year": 2017,
+        "title": "Coco",
+        "posterPath": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/354912",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt2380307"
+      },
+      "movie:508442": {
+        "tmdb": 508442,
+        "kind": "movie",
+        "year": 2020,
+        "title": "Soul",
+        "posterPath": "/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/508442",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt2948372"
+      },
+      "movie:2062": {
+        "tmdb": 2062,
+        "kind": "movie",
+        "year": 2007,
+        "title": "Ratatouille",
+        "posterPath": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/2062",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt0382932"
+      },
+      "movie:9806": {
+        "tmdb": 9806,
+        "kind": "movie",
+        "year": 2004,
+        "title": "The Incredibles",
+        "posterPath": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/9806",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt0317705"
+      },
+      "movie:260513": {
+        "tmdb": 260513,
+        "kind": "movie",
+        "year": 2018,
+        "title": "Incredibles 2",
+        "posterPath": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/260513",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt3606756"
+      },
+      "movie:286217": {
+        "tmdb": 286217,
+        "kind": "movie",
+        "year": 2015,
+        "title": "The Martian",
+        "posterPath": "/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/286217",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt3659388"
+      },
+      "movie:329865": {
+        "tmdb": 329865,
+        "kind": "movie",
+        "year": 2016,
+        "title": "Arrival",
+        "posterPath": "/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/329865",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt2543164"
+      },
+      "movie:37165": {
+        "tmdb": 37165,
+        "kind": "movie",
+        "year": 1998,
+        "title": "The Truman Show",
+        "posterPath": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+        "posterSource": "https://www.themoviedb.org/movie/37165",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:22:17Z",
+        "imdb": "tt0120382"
+      },
+      "series:87108": {
+        "tmdb": 87108,
+        "kind": "series",
+        "year": 2019,
+        "title": "Chernobyl",
+        "posterPath": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+        "posterSource": "https://www.themoviedb.org/tv/87108",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:28:22Z",
+        "imdb": "tt7366338"
+      },
+      "series:125988": {
+        "tmdb": 125988,
+        "kind": "series",
+        "year": 2023,
+        "title": "Silo",
+        "posterPath": "/r2QXomqKjkKHVtYGGtkf2l2Y7go.jpg",
+        "posterSource": "https://www.themoviedb.org/tv/125988",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:28:22Z",
+        "imdb": "tt14688458"
+      },
+      "series:95396": {
+        "tmdb": 95396,
+        "kind": "series",
+        "year": 2022,
+        "title": "Severance",
+        "posterPath": "/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+        "posterSource": "https://www.themoviedb.org/tv/95396",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:28:22Z",
+        "imdb": "tt11280740"
+      },
+      "series:70523": {
+        "tmdb": 70523,
+        "kind": "series",
+        "year": 2017,
+        "title": "Dark",
+        "posterPath": "/wiiyc3m6HKaQhFBYeuM7ySCNQsG.jpg",
+        "posterSource": "https://www.themoviedb.org/tv/70523",
+        "posterMethod": "tmdb-public-detail-page-id",
+        "posterCheckedAt": "2026-10-22T14:28:22Z",
+        "imdb": "tt5753856"
+      }
+    }
+  }
+}

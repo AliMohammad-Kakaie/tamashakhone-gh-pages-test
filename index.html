@@ -1,53 +1,21 @@
-<!doctype html>
-<html lang="fa" dir="rtl">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#121210">
-  <meta name="robots" content="noindex,nofollow">
-  <meta name="referrer" content="no-referrer">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self'; font-src 'self'; connect-src 'none'; base-uri 'none'; object-src 'none'; form-action 'none'">
-  <title>تماشاخونه — آزمایش GitHub Pages</title>
-  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="./styles.css">
-  <script type="module" src="./app.mjs"></script>
-</head>
-<body>
-<main class="shell">
-  <header class="mast">
-    <div class="brand"><span class="logo" aria-hidden="true">▶</span><div><p class="eyebrow">آزمایش دسترسی · GitHub Pages</p><h1>تماشاخونه</h1></div></div>
-    <p class="intro">نسخه آزمایشی عمومی — بدون اطلاعات واقعی</p>
-    <p class="muted">یک کتابخانه کوچک برای آزمایش نمایش و تعامل در مرورگر گوشی؛ بدون نیاز به ورود.</p>
-  </header>
-  <p class="notice">همه عنوان‌ها، سال‌ها و توضیح‌های زیر ساختگی و صرفاً برای آزمایش‌اند؛ به سابقه تماشای هیچ فردی ارتباط ندارند.</p>
-  <section class="toolbar" aria-label="جست‌وجو و فیلتر کارت‌های آزمایشی">
-    <label class="search">جست‌وجو<input id="search" type="search" placeholder="عنوان فارسی یا انگلیسی…" autocomplete="off" disabled></label>
-    <label>نوع اثر<select id="type" disabled><option value="all">همه آثار</option><option value="movie">فیلم‌ها</option><option value="series">سریال‌ها</option></select></label>
-    <button id="reset" class="secondary" type="button" disabled>پاک‌کردن فیلترها</button>
-  </section>
-  <p id="results" class="results" role="status">۴ اثر کاملاً ساختگی</p>
-  <section id="library" class="gallery" aria-label="کارت‌های نمایشی">
-    <article class="work" data-kind="movie">
-      <div class="poster dawn" aria-hidden="true"><span class="sample">نمونهٔ ساختگی</span><span class="art-circle"></span><span class="art-line"></span><span class="art-number">۰۱</span></div>
-      <div class="workinfo"><span class="type">فیلم · ۲۰۴۲ نمایشی</span><h2>سفر به ایستگاه هفتم</h2><p lang="en" dir="ltr" class="english">Station Seven — Demo</p><p class="description">یک سفر فضایی خیالی؛ ساخته‌شده فقط برای این آزمایش.</p></div>
-    </article>
-    <article class="work" data-kind="series">
-      <div class="poster lantern" aria-hidden="true"><span class="sample">نمونهٔ ساختگی</span><span class="art-circle"></span><span class="art-line"></span><span class="art-number">۰۲</span></div>
-      <div class="workinfo"><span class="type">سریال · ۲۰۴۳ نمایشی</span><h2>کوچهٔ فانوس‌ها</h2><p lang="en" dir="ltr" class="english">Lantern Lane — Demo</p><p class="description">ماجراهایی خیالی در کوچه‌ای که فقط در این نمونه وجود دارد.</p></div>
-    </article>
-    <article class="work" data-kind="movie">
-      <div class="poster train" aria-hidden="true"><span class="sample">نمونهٔ ساختگی</span><span class="art-circle"></span><span class="art-line"></span><span class="art-number">۰۳</span></div>
-      <div class="workinfo"><span class="type">فیلم · ۲۰۴۰ نمایشی</span><h2>آخرین قطار کاغذی</h2><p lang="en" dir="ltr" class="english">Paper Train — Demo</p><p class="description">داستانی ساختگی درباره قطاری کاغذی و مسیری ناممکن.</p></div>
-    </article>
-    <article class="work" data-kind="series">
-      <div class="poster clocks" aria-hidden="true"><span class="sample">نمونهٔ ساختگی</span><span class="art-circle"></span><span class="art-line"></span><span class="art-number">۰۴</span></div>
-      <div class="workinfo"><span class="type">سریال · ۲۰۴۱ نمایشی</span><h2>جزیرهٔ ساعت‌های خاموش</h2><p lang="en" dir="ltr" class="english">Silent Clocks — Demo</p><p class="description">جزیره‌ای خیالی برای سنجش جست‌وجو و فیلتر؛ بدون سابقه واقعی.</p></div>
-    </article>
-  </section>
-  <p id="empty" class="empty" hidden>اثری با این جست‌وجو و فیلتر پیدا نشد.</p>
-  <section class="js-test" aria-labelledby="test-title"><div><h2 id="test-title">آزمایش عملکرد صفحه</h2><p id="script-status" class="muted">در انتظار اجرای جاوااسکریپت…</p></div><button id="test-button" type="button" disabled>آزمایش کلیک</button><p id="counter" aria-live="polite" aria-atomic="true">تعداد کلیک: ۰</p></section>
-  <noscript><p class="notice">جاوااسکریپت غیرفعال است. کارت‌ها نمایش داده می‌شوند، اما جست‌وجو، فیلتر و شمارنده کار نمی‌کنند.</p></noscript>
-  <footer>فایل‌های محلی · بدون اتصال به بانک اطلاعاتی · بدون جمع‌آوری اطلاعات شخصی توسط این نمونه</footer>
-</main>
-</body>
-</html>
+<!doctype html><html lang="fa" dir="rtl"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#10151d"><meta name="robots" content="noindex,nofollow,noarchive"><meta name="referrer" content="no-referrer">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' https://image.tmdb.org; connect-src 'self'; font-src 'self'; base-uri 'none'; object-src 'none'; form-action 'none'">
+<title>تماشاخونه — داشبورد نمایشی عمومی · GH10.1</title><link rel="icon" href="./favicon.svg"><link rel="stylesheet" href="./styles.css"><script type="module" src="./app.mjs"></script></head><body>
+<main class="shell" id="app"><header class="mast"><div class="headline"><div class="brand"><div class="logo" aria-hidden="true">▶</div><div><h1>تماشاخونه</h1><p>کتابخانهٔ سینمایی · نسخهٔ آزمایشی</p></div></div><div class="headLinks"><span class="smallTag demoTag">اطلاعات نمایشی و غیرواقعی</span><span class="smallTag">بدون اتصال به بانک اصلی</span><span class="smallTag">GH10.1 · عمومی</span><button id="refreshDemo" class="smallTag" type="button">تازه‌سازی نمایشی</button></div></div><section class="stats" id="stats" aria-label="آمار داده‌های آزمایشی"></section></header>
+<div class="notice demoNotice"><b>محیط آزمایشی:</b> نسخه آزمایشی عمومی — بدون اطلاعات واقعی. تمام تماشاها، امتیازهای شخصی، نظرات و پیشرفت‌ها ساختگی‌اند و به سوابق واقعی هیچ‌کس اشاره ندارند. ستون IMDb نیز فقط نمونهٔ ساختگی است؛ عنوان‌ها و شناسه‌های آثار عمومی‌اند.</div>
+<p id="syncStatus" class="muted mini" role="status">منبع: دادهٔ نمایشی؛ اتصال واقعی غیرفعال است.</p><nav class="tabs" id="tabs" aria-label="بخش‌های داشبورد"></nav>
+<section id="filters" class="toolbar" aria-label="جست‌وجو و فیلترها">
+<div class="filterRow"><label class="searchLabel">جست‌وجو<input id="search" type="search" placeholder="عنوان فارسی یا انگلیسی…" autocomplete="off"></label>
+<label>نوع اثر<select id="filterType"><option value="all">همه آثار</option><option value="movie">فیلم‌ها</option><option value="series">سریال‌ها</option></select></label>
+<label>وضعیت تماشا<select id="filterStatus"><option value="all">همه وضعیت‌ها</option><option value="active">در حال تماشا</option><option value="completed">کامل‌شده</option><option value="waiting">در انتظار پخش</option></select></label>
+<label>نوع تماشا<select id="filterWatch"><option value="all">همه تماشاها</option><option value="مشترک">تماشای مشترک</option><option value="انفرادی">تماشای انفرادی</option></select></label>
+<label>مرتب‌سازی عمومی<select id="sort"><option value="recent">جدیدترین ثبت‌ها</option><option value="oldest">قدیمی‌ترین ثبت‌ها</option><option value="yearDesc">سال ساخت، جدیدترین</option><option value="yearAsc">سال ساخت، قدیمی‌ترین</option><option value="titleAsc">نام فارسی، الفبایی</option><option value="titleDesc">نام فارسی، معکوس</option><option value="rating">بر اساس امتیاز</option></select></label></div>
+<div class="filterRow scoreFilters"><label>منبع امتیاز<select id="filterPerson"><option value="ali">علی‌محمد · آزمایشی</option><option value="fat">فاطمه · آزمایشی</option><option value="imdb">IMDb · نمونه ساختگی</option></select></label>
+<label>وضعیت امتیاز<select id="filterScore"><option value="all">همه آثار</option><option value="rated">دارای امتیاز</option><option value="unrated">بدون امتیاز</option><option value="range">محدوده دلخواه</option></select></label>
+<div class="rangeGroup" id="rangeGroup"><label>حداقل<input id="minScore" inputmode="decimal" placeholder="۰" aria-describedby="rangeHint rangeError"></label><span>تا</span><label>حداکثر<input id="maxScore" inputmode="decimal" placeholder="۱۰" aria-describedby="rangeHint rangeError"></label></div>
+<label>ترتیب امتیاز<select id="scoreOrder"><option value="none">طبق مرتب‌سازی عمومی</option><option value="desc">بیشترین به کمترین</option><option value="asc">کمترین به بیشترین</option></select></label><button id="reset">پاک‌کردن فیلترها</button></div>
+<div class="filterHelp"><span id="rangeHint">بازه دلخواه شامل هر دو مرز است؛ مقدار خالی یعنی صفر یا ۱۰. امتیاز ثبت‌نشده همیشه در انتهای ترتیب امتیاز می‌آید.</span><span id="rangeError" role="alert"></span></div></section>
+<div id="drillNotice"></div><div id="summary" class="sectionTitle"></div><section id="content" aria-live="polite"><div class="empty">در حال آماده‌سازی کتابخانهٔ آزمایشی…</div></section>
+<footer class="footer"><details><summary>منابع و دربارهٔ نسخه آزمایشی</summary><div class="credits"><a href="https://www.themoviedb.org/" target="_blank" rel="noopener noreferrer"><img src="./tmdb-logo.svg" width="90" height="40" alt="TMDB"></a><p dir="ltr" lang="en">This product uses the TMDB API but is not endorsed or certified by TMDB.</p><p>پوسترهای نمونه از TMDB هستند. کش تصاویر توسط مرورگر مدیریت می‌شود. کشف و تازه‌سازی خودکار گسترده، نیازمند کلید سمت سرور است.</p><p>در این نسخه هیچ امتیاز واقعی IMDb بازنشر نمی‌شود. تمام مقادیر ستون IMDb ساختگی‌اند. مرجع برای اتصال مجاز آینده: <a href="https://developer.imdb.com/non-commercial-datasets/" target="_blank" rel="noopener noreferrer">مجموعه‌داده رسمی IMDb</a>، فقط برای استفاده شخصی و غیرتجاری. این محصول وابسته یا مورد تأیید IMDb نیست.</p><p id="metadataDate"></p><p>این نسخه نمایشی روی GitHub Pages عمومی است؛ هیچ سامانه ورود یا کنترل دسترسی خصوصی ندارد. هیچ اتصال Google Sheets یا امکان ویرایش آرشیو در این نسخه وجود ندارد.</p></div></details></footer></main>
+<div id="modal" class="overlay" hidden role="dialog" aria-modal="true" aria-labelledby="detailTitle"><div class="dialog"><button class="close" id="closeModal" aria-label="بستن شناسنامه">×</button><div id="modalContents"></div></div></div><noscript><p>برای استفاده از داشبورد، جاوااسکریپت مرورگر باید فعال باشد.</p></noscript></body></html>
