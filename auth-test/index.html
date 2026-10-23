@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; connect-src https://dnjkctcszguhlmxphzve.supabase.co; img-src 'self' data:; base-uri 'none'; form-action 'none'; object-src 'none'; upgrade-insecure-requests">
+  <meta name="robots" content="noindex,nofollow">
+  <title>تماشاخونه — آزمون ورود</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./auth.mjs"></script>
+</head>
+<body>
+  <main class="shell">
+    <header><p class="eyebrow">تماشاخونه · نمونهٔ مستقل ورود</p><h1>آرشیو، پشت درِ ورود</h1><p>اطلاعات نمایشی و غیرواقعی — بدون اتصال به بانک اصلی</p><span class="badge">M11.AUTH.1</span></header>
+    <section class="panel" aria-labelledby="login-title" id="login-panel">
+      <h2 id="login-title">ورود آزمایشی</h2>
+      <p class="subtle">با حساب آزمایشی تعیین‌شده وارد شو. این صفحه به داشبورد اصلی متصل نیست.</p>
+      <form id="login-form">
+        <label for="username">نام کاربری</label>
+        <input id="username" name="username" type="text" autocomplete="username" autocapitalize="none" spellcheck="false" dir="ltr" maxlength="32" required>
+        <label for="password">رمز عبور</label>
+        <input id="password" name="password" type="password" autocomplete="current-password" dir="ltr" maxlength="1024" required>
+        <button type="submit" id="login">ورود</button>
+      </form>
+      <p class="subtle">بازنشانی رمز و غیرفعال‌کردن حساب توسط مالک انجام می‌شود. ایمیل، پیامک یا کد تأیید برای ورود روزمره لازم نیست.</p>
+    </section>
+    <p role="status" aria-live="polite" id="status">در حال بررسی اتصال…</p>
+    <section id="private-panel" class="panel" hidden aria-labelledby="archive-title">
+      <div class="row"><h2 id="archive-title">دادهٔ محافظت‌شدهٔ آزمایشی</h2><button type="button" id="logout" class="secondary">خروج</button></div>
+      <p id="member"></p><p class="demo">همهٔ آثار، امتیازها و تماشاهای زیر ساختگی‌اند.</p>
+      <div id="works" class="works"></div>
+      <p id="facts"></p><p id="fetched" class="subtle"></p>
+      <button type="button" id="refresh" class="secondary">تازه‌سازی داده</button>
+    </section>
+    <section class="checks"><button type="button" id="health" class="secondary">آزمون اتصال سرویس</button><button type="button" id="unauthorized" class="secondary">آزمون درخواست بدون ورود</button><p id="checks-status" role="status" aria-live="polite"></p></section>
+    <footer>این نمونه فقط برای آزمون ورود است. در این مرحله نشست با تازه‌سازی یا بستن صفحه پاک می‌شود.</footer>
+  </main>
+</body>
+</html>
